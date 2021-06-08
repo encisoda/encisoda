@@ -1,22 +1,20 @@
-### Hi there 👋
 
 ```javascript
-const aboutMe = {
+const daniel = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   nickname: "Little boss"
+   code: [Javascript, Typescript, HTML, CSS, Python, CSharp, PHP],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
+         css: ["Bootstrap", "Material Design"]
       },
       backEnd: {
-         java: ["Spring"],
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
+         Python: ["Django"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      databases: ["MongoDB", "mySQL", "SQLServer"]
    },
    currentOccupation: ["last year student, open for job opportunities"],
    challenge: "I'm working towards being able to run a marathon.",
