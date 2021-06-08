@@ -16,7 +16,6 @@ const daniel = {
       },
       databases: ["MongoDB", "mySQL", "SQLServer"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   challenge: "Try to conquer the world.",
 };
 ```
