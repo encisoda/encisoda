@@ -5,8 +5,7 @@
 
 ```javascript
 const daniel = {
-   pronouns: "he" | "him",
-   nickname: "Little boss"
+   nickname: "Little boss",
    code: [Javascript, Typescript, HTML, CSS, Python, CSharp, PHP],
    technologies: {
       frontEnd: {
