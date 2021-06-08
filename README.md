@@ -1,5 +1,5 @@
 
-<p><em>University technician in software development at <a href="https://web.upe.edu.ar/">Provincial University of Ezeiza </a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30"></br>Full-stack Developer at <a href="https://www.argentina.gob.ar/fuerzaaerea/direccion-general-de-investigacion-y-desarrollo/centro-de-simulacion-y-juegos-de-guerra-csjg">Argentina air force - Simulation and War Games Center</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> 
+<p><em>University technician in software development at <a href="https://web.upe.edu.ar/">Provincial University of Ezeiza </br>Full-stack Developer at <a href="https://www.argentina.gob.ar/fuerzaaerea/direccion-general-de-investigacion-y-desarrollo/centro-de-simulacion-y-juegos-de-guerra-csjg">Argentina air force - Simulation and War Games Center</a> 
 </em></p>
 
 ```javascript
