@@ -1,7 +1,7 @@
-<img src="https://github.com/encisoda/image/blob/main/Daniel.gif"/ style="display: block;
+<img src="https://github.com/encisoda/image/blob/main/Daniel.gif" style="display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 50%;">
+  width: 50%;"/>
 
 
 <p><em>University technician in software development at <a href="https://web.upe.edu.ar/">Provincial University of Ezeiza </a> 
