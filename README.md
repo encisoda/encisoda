@@ -22,7 +22,7 @@ const daniel = {
          csharp: ["Asp.net Core"],
          Python: ["Django"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer", Oracle]
+      databases: ["MongoDB", "mySQL", "SQLServer", "Oracle"]
    },
    challenge: "Try to conquer the world.",
 };
