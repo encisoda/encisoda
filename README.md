@@ -11,7 +11,7 @@
 ```javascript
 const daniel = {
    nickname: "Little boss",
-   code: [Javascript, Typescript, HTML, CSS, Python, CSharp, PHP],
+   code: [Javascript, Typescript, HTML, CSS, Python, CSharp],
    technologies: {
       frontEnd: {
          js: ["React", "Angular"],
@@ -22,7 +22,7 @@ const daniel = {
          csharp: ["Asp.net Core"],
          Python: ["Django"]
       },
-      databases: ["MongoDB", "mySQL", "SQLServer"]
+      databases: ["MongoDB", "mySQL", "SQLServer", Oracle]
    },
    challenge: "Try to conquer the world.",
 };
